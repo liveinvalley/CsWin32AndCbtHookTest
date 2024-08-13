@@ -1,0 +1,6 @@
+SetWindowsHookEx
+UnhookWindowsHookEx
+CallNextHookEx
+GetCurrentThreadId
+SetWindowSubclass
+DefSubclassProc
